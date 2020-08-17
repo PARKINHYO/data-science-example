@@ -9,12 +9,12 @@ plt.title("Nominal GDP")
 
 # fixme add a label to the y-axis
 plt.ylabel("Billions of $")
-plt.show()
 
 # fixme save the file
-plt.savefig('im/viz_gdp.png')
+plt.savefig('../image/viz_gdp.png')
+
+plt.show()
 
 # fixme Get the current Axes and clear
 plt.gca().clear()
-
 
