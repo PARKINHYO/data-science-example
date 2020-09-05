@@ -1,5 +1,5 @@
 import random
-from datascience.mathematics.vector import distance, add, scalar_multiply
+from datascience.mathematics.vector import distance, add, scalar_multiply # 이전글 참고
 from typing import List
 Vector = List[float]
 
